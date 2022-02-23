@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Copy of verses presented to His Royal Higness [sic] at the Lord Bishop of Salisbury's on Monday the 15th of this instant September, 1684 to the illustrious and high born prince, Iames, Duke of York, and George, Prince of Denmarke.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34524</idno>
+            <idno type="STC">Wing C6238</idno>
+            <idno type="STC">ESTC R40875</idno>
+            <idno type="EEBO-CITATION">19525839</idno>
+            <idno type="OCLC">ocm 19525839</idno>
+            <idno type="VID">108983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108983)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1684:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Copy of verses presented to His Royal Higness [sic] at the Lord Bishop of Salisbury's on Monday the 15th of this instant September, 1684 to the illustrious and high born prince, Iames, Duke of York, and George, Prince of Denmarke.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Croom, for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry.</term>
+               <term>George, --  Prince, consort of Anne, Queen of Great Britain, 1653-1708 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:108983:1" rendition="simple:additions"/>
+            <head>A Copy of Verſes Preſented TO His Royal Higneſs, AT THE Lord Biſhip of <hi>SALISB<g ref="char:V">Ʋ</g>RY's;</hi> ON <hi>Monday</hi> the <hi>15th.</hi> of this Inſtant <hi>September,</hi> 1684.</head>
+            <head type="sub">To the Illuſtrious and High Born Prince, <hi>Iames, Duke</hi> of <hi>York,</hi> and <hi>George Prince</hi> of Denmarke.</head>
+            <lg>
+               <l>WElcome great Princes to our Trades-men all,</l>
+               <l>Welcome to Loyalty whether great or ſmall;</l>
+               <l>To witneſs which, we'll let you know</l>
+               <l>Our Lives <hi>&amp;c.</hi> for Loyalty ſhall go:</l>
+               <l>Bleſſed be God; the Nation's now in peace again,</l>
+               <l>And <hi>Fanaticks</hi> once more turn Loyal men.</l>
+               <l>Now may our <hi>King,</hi> and <hi>Princes</hi> a Progreſs go,</l>
+               <l>God ſtill defend them, and Confound their Foe.</l>
+               <l>Heavens bleſs the <hi>King</hi> and Royal Family to;</l>
+               <l>And proſper all what e're they have to do;</l>
+               <l>And ſuffer not the Unhallowed Heart and Hand,</l>
+               <l>Any more to proſper; which durſt command</l>
+               <l>The Sons of Belial further for to Plot,</l>
+               <l>Or <hi>Sallamanca</hi> like, Sweare they know not what;</l>
+               <l>To take the lives of Loyal men away,</l>
+               <l>By ſeeing from St. <hi>Omers</hi> hither in a Day:</l>
+               <l>Denying honeſty, proud with Malice grow,</l>
+               <l>Regard not Others but to the Devil go,</l>
+               <pb facs="tcp:108983:2"/>
+               <l>Thinking t'is no ſin to ſpill the guiltleſs Blood</l>
+               <l>Tho ne're ſo Loyal and in their places good.</l>
+               <l>Faith and <hi>Allegiance</hi> they did not Spare,</l>
+               <l>Nor Conſcience make to pull him from his Chair</l>
+               <l>Thus did the Villains think for to be great</l>
+               <l>Making Religion the ground of all their <hi>Cheat</hi>
+               </l>
+               <l>They thought quite to blot out Prince <hi>James</hi>'s Name,</l>
+               <l>Who was a <hi>Hero</hi> to all where e're he came.</l>
+               <l>But <hi>Juſtice</hi> ſoon found them out, and at laſt</l>
+               <l>Deſtroyed their Helliſh Counſels with a Blaſt:</l>
+               <l>And the Damn'd <hi>Rebells</hi> brought to ſhame,</l>
+               <l>Who might have lived in Honour and in Fame,</l>
+               <l>Bleſſed be God ſome are already dead,</l>
+               <l>Tho others from <hi>Juſtice</hi> they are Fled:</l>
+               <l>Who dare not blame hard Fate or Deſtiny,</l>
+               <l>But willfull rebellion Rewarded with Miſery.</l>
+               <l>Thus have Loyalty and <hi>Juſtice</hi> all their Plots out-don,</l>
+               <l>O're turnd their Counſels, and made the Traytors Run.</l>
+               <l>Rotten members muſt be lopt of for feare</l>
+               <l>Of doing further harm, whilſt they are here.</l>
+               <l>Gentle forbearance making Traytors to offend,</l>
+               <l>And doth but Strength to all <hi>Phanaticks</hi> lend:</l>
+               <l>Which makes them ſtill expect their acts of Grace,</l>
+               <l>To thruſt their <hi>Soveraigne</hi> out of his place.</l>
+            </lg>
+            <lg>
+               <l>Go Traiterous Martirs go, go and tell</l>
+               <l>Your horrid plots unto the damn'd in hell:</l>
+               <l>There Addreſs, Aſſociate, and for liberty call</l>
+               <l>To your old <hi>Achitophell, Belzebub, Lucifer</hi> and all</l>
+               <l>The Damn'd Crew—</l>
+            </lg>
+            <lg>
+               <l>Confounded be all ſuch that ſeek their Princes Woe,</l>
+               <l>Lord cut thm off, or work their Ovethrow.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Croom,</hi> for the Author. 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
